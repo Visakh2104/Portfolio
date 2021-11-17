@@ -8,28 +8,33 @@
 
 
 <url>
-  <loc>http://arjunsuresh.in/</loc>
-  <lastmod>2021-08-03T17:42:42+00:00</lastmod>
+  <loc>https://vizak.in/</loc>
+  <lastmod>2021-11-16T16:46:25+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://arjunsuresh.in/about.html</loc>
-  <lastmod>2021-08-03T17:42:42+00:00</lastmod>
+  <loc>https://vizak.in/about.html</loc>
+  <lastmod>2021-11-16T16:46:25+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arjunsuresh.in/portfolio.html</loc>
-  <lastmod>2021-08-03T17:42:42+00:00</lastmod>
+  <loc>https://vizak.in/portfolio.html</loc>
+  <lastmod>2021-11-16T16:46:25+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arjunsuresh.in/contact.html</loc>
-  <lastmod>2021-08-03T17:42:42+00:00</lastmod>
+  <loc>https://vizak.in/resume-visakh.pdf</loc>
+  <lastmod>2021-11-16T16:46:25+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://arjunsuresh.in/index.html</loc>
-  <lastmod>2021-08-03T17:42:42+00:00</lastmod>
+  <loc>https://vizak.in/contact.html</loc>
+  <lastmod>2021-11-16T16:46:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vizak.in/index.html</loc>
+  <lastmod>2021-11-16T16:46:25+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://arjunsuresh.in/sitemap.xml
+Sitemap: https://vizak.in/sitemap.xml
