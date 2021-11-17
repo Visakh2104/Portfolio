@@ -1,0 +1,219 @@
+/* You can add global styles to this file, and also import other style files */
+/* reset file */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font-family: 'PT Sans', sans-serif;
+	vertical-align: baseline;
+	line-height: 1.5;
+	font-size: 14px;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+    border-spacing: 0;
+}
+a:hover, a:focus, a:active, a:visited {
+	text-decoration: none;
+	outline: none;
+}
+button:hover, button:focus, button:active, button:visited, .btn:focus, .btn:active:focus {
+	outline: none;
+}
+.no-gutter {
+	padding: 0;
+	margin: 0;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #000;
+    box-shadow: inset 0 0 5px grey; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #FFC000;
+  box-shadow: inset 0 0 5px grey;
+}
+/********/
+
+.shopping-nav {
+	margin: 0 100px;
+  }
+  
+  .shopping-search ul {
+	margin-bottom: 0;
+  }
+  
+  .shopping-search ul li {
+	display: inline-block;
+	margin: 0 10px;
+  }
+  
+  .shopping-banner {
+	background-image: url("../images/Background.png");
+	background-repeat: no-repeat;
+	background-position: top;
+	height: 600px;
+	position: relative;
+  }
+  
+  .shopping-banner .banner-text {
+	position: absolute;
+	bottom: 70px;
+	right: 100px;
+  }
+  
+  .shopping-banner .banner-text h1 {
+	font-size: 60px;
+	font-weight: 700;
+  }
+  
+  .shopping-banner .banner-text h3 {
+	font-size: 15px;
+  }
+  
+  .shopping-banner .banner-text h4 {
+	font-size: 13px;
+  }
+  
+  .shopping-banner .banner-text button {
+	border: none;
+	margin-top: 20px;
+	margin-right: 25px;
+	background-color: #252222;
+	color: #fff;
+	padding: 8px 15px;
+	font-size: 12px;
+  }
+  
+  .shopping-view {
+	margin-top: 80px;
+  }
+  
+  .shopping-view img {
+	max-width: 100%;
+  }
+  
+  .shopping-view .row-view {
+	margin-top: 28px;
+  }
+  
+  .shopping-view .shopping-category {
+	background-image: url("../images/dffdsdf.png");
+	height: 600px;
+	background-repeat: no-repeat;
+	position: relative;
+  }
+  
+  .shopping-view button {
+	position: absolute;
+	bottom: 30px;
+	left: 20px;
+	border: none;
+	padding: 5px 20px;
+  }
+  
+  .shopping-women {
+	margin-top: 100px;
+  }
+  
+  .shopping-women h2 {
+	text-align: center;
+	font-size: 20px;
+	font-weight: 700;
+  }
+  
+  .shopping-women h4 {
+	text-align: center;
+	font-size: 15px;
+  }
+  
+  .shopping-women img {
+	margin-top: 40px;
+  }
+  
+  .shopping-women .col-md-3 h4 {
+	text-align: start;
+	font-size: 12px;
+	margin-top: 20px;
+  }
+  
+  .shopping-women .col-md-3 h3 {
+	font-size: 15px;
+  }
+  
+  .shopping-avon {
+	margin-top: 100px;
+	position: relative;
+  }
+  
+  .shopping-avon img {
+	margin-top: 20px;
+  }
+  
+  .shopping-avon h3 {
+	text-align: center;
+	font-size: 20px;
+	font-weight: 700;
+  }
+  
+  .shopping-avon h4 {
+	text-align: center;
+	font-size: 12px;
+  }
+  
+  .shopping-avon .avon-img1 {
+	margin-top: 70px;
+  }
+  
+  .shopping-avon .avon-img3 {
+	position: absolute;
+	bottom: 0;
+	right: 100px;
+	border: 12px solid #fff;
+	height: 280px;
+  }
+  /*# sourceMappingURL=app.component.css.map */
